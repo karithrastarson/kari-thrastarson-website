@@ -46,8 +46,6 @@
   height: 100%;
   margin: 0 40px;
   overflow: hidden;
-  font-family: "rocha", sans-serif;
-
 }
 
 .cd-horizontal-timeline .events-wrapper::after, .cd-horizontal-timeline .events-wrapper::before {
